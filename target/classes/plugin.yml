@@ -1,0 +1,9 @@
+name: WarpGUI
+main: WarpGUI.WarpGUIPlugin
+commands:
+  WarpGui:
+    description: Main warpgui command
+    aliases: [ewarpgui]
+api-version: 1.13
+version: 3.1.0
+author: CustomEnchants
